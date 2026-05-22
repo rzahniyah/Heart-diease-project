@@ -14,7 +14,7 @@ The dataset is from Kaggle. It is a medicala dataset that deals with heart disea
 exercise induced angina, oldpeak = ST depression induced by exercise relative to rest,slope of the peak exercise ST segment, number of major vessels, and thal
 
 ##Project instructions:
-Open the notebook file in Google colab then run all cells
+Open the notebook file in Google colab, upload heart.csv file then run all cells
 
 Required python libraries: 
 pandas 
